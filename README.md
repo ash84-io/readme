@@ -1,6 +1,8 @@
 README
 ========
 
+## Server
+- [Scaling-100k](https://alexpareto.com/scalability/systems/2020/02/03/scaling-100k.html)
 
 ## REST API Design 
 
