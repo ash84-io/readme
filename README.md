@@ -10,3 +10,13 @@ README
 - [Github REST API v3](https://developer.github.com/v3/)
 - [Uber REST API](https://developer.uber.com/docs/riders/references/api)
 - [Stripe API](https://stripe.com/docs/api)
+
+
+## Monitoring
+- [supabase](https://github.com/supabase/supabase): firebase alternative 
+
+## Tools 
+
+### images
+- [erase bk images](https://www.erase.bg/en/)
+- [clean up](https://cleanup.pictures/)
