@@ -3,6 +3,7 @@ README
 
 ## Server
 - [Scaling-100k](https://alexpareto.com/scalability/systems/2020/02/03/scaling-100k.html)
+- https://news.hada.io/topic?id=6686
 
 ## REST API Design 
 
@@ -14,8 +15,17 @@ README
 
 ## Monitoring
 - [supabase](https://github.com/supabase/supabase): firebase alternative 
+- [health check](https://github.com/TwiN/gatus)
+- [external health check](https://assertible.com)
+
+## Frontend 
+- https://picocss.com/
+
 
 ## Tools 
+
+### microservice
+- https://github.com/go-kit/kit
 
 ### images
 - [erase bk images](https://www.erase.bg/en/)
