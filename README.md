@@ -30,3 +30,4 @@ README
 ### images
 - [erase bk images](https://www.erase.bg/en/)
 - [clean up](https://cleanup.pictures/)
+- [pretty-code/app-screenshots](https://notes.aliciasykes.com/40473/generate-pretty-code-app-screenshots)
